@@ -4,6 +4,9 @@
 ![Python Build](https://img.shields.io/github/workflow/status/pinry/pinry/Python%20package?label=python%20build)
 ![Docker Pulls](https://img.shields.io/docker/pulls/getpinry/pinry)
 
+**Note:** this is just a clone ~~fork~~ of changes I like... I do not
+claim ownership of any code here nor plan to make pull requests :/
+
 The open-source core of Pinry, a tiling image board system for people
 who want to save, tag, and share images, videos and webpages in an easy
 to skim through format.
@@ -25,7 +28,7 @@ For more information ( screenshots and document ) visit [getpinry.com](https://g
   - [x] English
   - [x] 简体中文
   - [x] French Support by [Lilian](https://github.com/LilianBoulard)
-  
+
 ## Preview
 ![image](https://user-images.githubusercontent.com/4109722/166976413-38b575f2-a246-4852-ba05-11bca5f9b052.png)
 
