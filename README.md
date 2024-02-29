@@ -4,7 +4,7 @@
 ![Python Build](https://img.shields.io/github/workflow/status/pinry/pinry/Python%20package?label=python%20build)
 ![Docker Pulls](https://img.shields.io/docker/pulls/getpinry/pinry)
 
-**Note:** this is just a clone ~~fork~~ of changes I like... I do not
+**Note:** this is just a ~~clone~~ fork of changes I like... I do not
 claim ownership of any code here nor plan to make pull requests :/
 
 The open-source core of Pinry, a tiling image board system for people
